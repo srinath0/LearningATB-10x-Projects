@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ex_05_TestNG_Examples">
+    <test name="ex_05_TestNG_Examples">
+
+        <classes>
+            <class name="com.srinath.ex05_TestNG_Examples.APITesting_016_enabled" />
+        </classes>
+    </test>
+</suite>

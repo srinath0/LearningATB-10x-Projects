@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RestAssured_Post_Requests_Suite">
+    <test name="RestAssured_Post_Requests_Tests">
+        <groups>
+            <run>
+                <include name="sanity">
+
+                </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.srinath.ex05_TestNG_Examples.APITesting_013_Testng_Groups" />
+        </classes>
+    </test>
+</suite>
